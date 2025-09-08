@@ -1,7 +1,6 @@
 import marker from "../images/marker.png";
 
 function Entry(props) {
-    console.log(props)
     return (
         <article className="journal-entry">
             <div className="article-image-container">

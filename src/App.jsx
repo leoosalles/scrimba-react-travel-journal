@@ -14,8 +14,8 @@ export default function App() {
     <>
       <Header />
       <main className="container">
-        {entryElements  }
+        {entryElements}
       </main>
     </>
-  )
+  );
 };
